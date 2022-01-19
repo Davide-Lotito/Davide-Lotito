@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Davide Pio Lotito
 
+![](https://komarev.com/ghpvc/?username=Davide-Lotito)
+
 ## 📚I am studying
 I'm a computer engineering student (Master degree), at the [University of Pavia](https://web.unipv.it/). Already graduated with 105/110 at the banchelor degree in electronic computer engineering. 
 
