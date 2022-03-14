@@ -1,41 +1,41 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" alt="header image" title="header image"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/davide-lotito/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/LotitoDavidePio">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" title="Twitter Badge"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Davide-Lotito&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Davide-Lotito&style=flat-square&color=blue" alt="visual counter" title="visual counter"/>
 </div>
 
 <br><br>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" title="waving hand"/>
   Hi there, I’m Davide Pio Lotito
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="80%" height="200"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="big image" alt="big image" width="80%" height="200"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
-I'm a postgrad student of Computer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Engineering at the [University of Pavia](https://web.unipv.it/). Already graduated at the banchelor degree in computer engineering. 
+I'm a postgrad student of Computer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coder" title="coder"> Engineering at the [University of Pavia](https://web.unipv.it/). Already graduated at the banchelor degree in computer engineering. 
 
 - :telescope: I'm attending the lectures of the master degree in computer science and multimedia.
 
 - :seedling:  In the meantime I'm working on exam projects and other personal projects. Some of these are available here on github.
 
-- :zap: in my spare time I enjoy HTB <img src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif" width="30"> and read about cyber security
+- :zap: in my spare time I enjoy HTB <img src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif" width="30" title="hacker" alt="hacker"> and read about cyber security
 
 ---
 
