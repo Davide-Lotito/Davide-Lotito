@@ -59,9 +59,14 @@ I'm a postgrad student of Computer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="eclipse" alt="eclipse" width="100" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" title="spyder" alt="spyder" width="100" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" title="notepad++" alt="notepad++" width="100" height="40"/>&nbsp;
-  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <br>
+  <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" title="GIMP" alt="GIMP" width="100" height="40"/>&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="GIT" alt="GIT" width="100" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" title="GNU-BASH" alt="GNU_BASH" width="100" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" title="TMUX" alt="TMUX" width="100" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" title="POWER" alt="POWER" width="100" height="40"/>&nbsp;
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
