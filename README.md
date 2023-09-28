@@ -27,14 +27,7 @@
 
 ---
 
-### :man_technologist: About Me :
-I'm a postgrad student of Computer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coder" title="coder"> Engineering at the [University of Pavia](https://web.unipv.it/). Already graduated at the banchelor degree in computer engineering. 
-
-- :telescope: I'm attending the lectures of the master degree in computer science and multimedia.
-
-- :seedling:  In the meantime I'm working on exam projects and other personal projects. Some of these are available here on github.
-
-- :zap: in my spare time I enjoy HTB <img src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif" width="30" title="hacker" alt="hacker"> and read about cyber security
+### :man_technologist: Cybersecurity enthusiast.
 
 ---
 
@@ -79,11 +72,4 @@ I'm a postgrad student of Computer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" title="Gsheet" alt="Gsheet" width="100" height="40"/>&nbsp;
 </div>
 
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Davide-Lotito&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davide-Lotito&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
